@@ -1,2 +1,1 @@
-# snake_game
-The aim of this project is to develop an easy to use game for recreation and amusement. It is a fun apple eating snake points game in which player has to collect/eat as many apples as possible.
+The aim of this project is to develop an easy to use game for recreation and amusement. It is a fun apple eating snake points game in which player has to collect/eat as many apples as possible. I have used pygame module and implemented an algorithm to move snake in all the four directions and eat apples. As snake eats more apples, it gets longer and increases its chance of crashing into itself and the game terminates. I have also used some adorable background and background music in the game that makes it more enjoyable.
